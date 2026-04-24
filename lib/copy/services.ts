@@ -38,7 +38,7 @@ export const services = [
     title: "Commercial Services",
     description:
       "Restaurants, parks, sports facilities, municipalities — we protect outdoor commercial spaces so your guests and customers stay comfortable. Custom treatment plans available.",
-    image: "/images/services/commercial.png",
+    image: "/images/services/Commercial.png",
     alt: "Commercial outdoor mosquito treatment at a restaurant patio",
   },
 ];
